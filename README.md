@@ -15,18 +15,18 @@ im for java
 </dependency>
 ```
 ## 引入依赖对应的仓库地址
-url：https://github.com/linkv-io/im-java-sdk/tree/main/repo
-···xml
+
+```xml
 <repositories>
  <repository>
   <id>linkv-mvn-repo</id>
-  <url></url>
+  <url>https://github.com/linkv-io/im-java-sdk/tree/main/repo</url>
  </repository>
 </repositories>
-···
+```
 
 ## 代码示例
-··· java
+``` java
 public class Test {
 
     @org.junit.Test
@@ -78,4 +78,4 @@ public class Test {
 
 
 }
-···
+```
