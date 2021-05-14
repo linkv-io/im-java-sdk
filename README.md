@@ -2,8 +2,8 @@
 im for java
 
 ## 两种使用方式
- maven
- 非maven
+ maven，看下文；
+ 非maven，可以将代码下载本地，编译，导入项目中
 
 ## 在项目pom文件中，引入依赖
 
