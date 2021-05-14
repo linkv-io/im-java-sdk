@@ -2,12 +2,12 @@
 im for java
 
 ## 两种使用方式
-# maven
-# 非maven
+ maven
+ 非maven
 
 ## 在项目pom文件中，引入依赖
 
-``` xml
+```xml
 <dependency>
    <groupId>sg.linkv</groupId>
    <artifactId>im-java-sdk</artifactId>
@@ -15,13 +15,14 @@ im for java
 </dependency>
 ```
 ## 引入依赖对应的仓库地址
-··· xml
-    <repositories>
-        <repository>
-            <id>linkv-mvn-repo</id>
-            <url>https://github.com/linkv-io/im-java-sdk/tree/main/repo</url>
-        </repository>
-    </repositories>
+
+···xml
+<repositories>
+ <repository>
+  <id>linkv-mvn-repo</id>
+  <url>https://github.com/linkv-io/im-java-sdk/tree/main/repo</url>
+ </repository>
+</repositories>
 ···
 
 ## 代码示例
