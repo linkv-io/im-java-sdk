@@ -15,12 +15,12 @@ im for java
 </dependency>
 ```
 ## 引入依赖对应的仓库地址
-
+url：https://github.com/linkv-io/im-java-sdk/tree/main/repo
 ···xml
 <repositories>
  <repository>
   <id>linkv-mvn-repo</id>
-  <url>https://github.com/linkv-io/im-java-sdk/tree/main/repo</url>
+  <url></url>
  </repository>
 </repositories>
 ···
