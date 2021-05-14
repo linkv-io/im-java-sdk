@@ -1,5 +1,5 @@
 ## im-java-sdk
-im for java
+im for java，jdk1.8，okhttp3-3.0.0，gson 2.8.6
 
 ## 两种使用方式
  maven，看下文；
